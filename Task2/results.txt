@@ -1,0 +1,75 @@
+--------Test 1 Details--------
+Title - Engedd, hogy az új Bouclette kollekciónk átöleljen
+Button Lable - MEGNÉZEM!
+--------Test Passed--------
+
+
+--------Test 2 Details--------
+Image Link - https://butopea.com/api/ext/prismic/images/cc9773049073f989dd3615248abd1df9.jpg?
+--------Test Passed--------
+
+
+--------Test 3 Details--------
+Product 1 details :
+Title - Egyajtós szekrény, polccal, magasfényű fehér - BRILLANCE
+Product Link - https://butopea.com/egyajtos-szekreny-polccal-magasfenyu-feher-brillance
+Image Link - https://butopea.com/img/300/300/resize/catalog/Product_pictures/DEJEL/dejel-hal-piano-v1[d]_1.jpg
+Price - 90.990 HUF
+
+Product 2 details :
+Title - Fali tükör polccal, magasfényű fehér - BRILLANCE
+Product Link - https://butopea.com/fali-tukor-polccal-magasfenyu-feher-brillance-dejel-hal-piano-ogp-d
+Image Link - https://butopea.com/img/300/300/resize/catalog/Product_pictures/DEJEL/dejel-hal-piano-ogp[d]_1.jpg
+Price - 58.990 HUF
+
+Product 3 details :
+Title - Szekrény, polcos és fiókos magasfényű fehér - BRILLANCE
+Product Link - https://butopea.com/szekreny-polcos-es-fiokos-magasfenyu-feher-brillance
+Image Link - https://butopea.com/img/300/300/resize/catalog/Product_pictures/DEJEL/dejel-hal-piano-v42[d]_1.jpg
+Price - 144.990 HUF
+
+Product 4 details :
+Title - Egyajtós szekrény, polccal és akasztós résszel, tükörrel, magasfényű fehér - BRILLANCE
+Product Link - https://butopea.com/egyajtos-szekreny-polccal-es-akasztos-resszel-tukorrel-magasfenyu-feher-brillance
+Image Link - https://butopea.com/img/300/300/resize/catalog/Product_pictures/DEJEL/dejel-hal-piano-v2og[d]_1.jpg
+Price - 117.990 HUF
+
+Product 5 details :
+Title - Ülőkés cipősszekrény, 76 cm, ülőpárnával, magasfényű fehér - BRILLANCE
+Product Link - https://butopea.com/ulokes-ciposszekreny-76-cm-uloparnaval-magasfenyu-feher-brillance
+Image Link - https://butopea.com/img/300/300/resize/catalog/Product_pictures/DEJEL/dejel-hal-piano-k2[d]_1.jpg
+Price - 69.990 HUF
+
+Product 6 details :
+Title - Fali tükör, magasfényű fehér kerettel - BRILLANCE
+Product Link - https://butopea.com/fali-tukor-magasfenyu-feher-kerettel-brillance
+Image Link - https://butopea.com/img/300/300/resize/catalog/Product_pictures/DEJEL/dejel-hal-piano-og[d]_1.jpg
+Price - 47.990 HUF
+
+Product 7 details :
+Title - Ülőkés cipősszekrény, 46 cm, ülőpárnával, magasfényű fehér - BRILLANCE
+Product Link - https://butopea.com/ulokes-ciposszekreny-46-cm-uloparnaval-magasfenyu-feher-brillance
+Image Link - https://butopea.com/img/300/300/resize/catalog/Product_pictures/DEJEL/dejel-hal-piano-k1[d]_1.jpg
+Price - 54.990 HUF
+
+Product 8 details :
+Title - Kiegészítő polc, 2 db, magasfényű fehér - BRILLANCE
+Product Link - https://butopea.com/kiegeszito-polc-2-db-magasfenyu-feher-brillance
+Image Link - https://butopea.com/img/300/300/resize/catalog/Product_pictures/DEJEL/dejel-hal-piano-f[d]_1.jpg
+Price - 10.990 HUF
+
+Product 9 details :
+Title - Cipőtároló, két fiókos, magasfényű fehér - BRILLANCE
+Product Link - https://butopea.com/cipotarolo-ket-fiokos-magasfenyu-feher-brillance
+Image Link - https://butopea.com/img/300/300/resize/catalog/Product_pictures/DEJEL/dejel-hal-piano-cpl22[d]_1.jpg
+Price - 102.990 HUF
+
+Product 10 details :
+Title - Cipőtároló, egy fiókos, magasfényű fehér - BRILLANCE
+Product Link - https://butopea.com/cipotarolo-egy-fiokos-magasfenyu-feher-brillance
+Image Link - https://butopea.com/img/300/300/resize/catalog/Product_pictures/DEJEL/dejel-hal-piano-cpl21[d]_1.jpg
+Price - 88.990 HUF
+
+
+--------Test Passed--------
+
